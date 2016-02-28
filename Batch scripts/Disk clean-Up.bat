@@ -5,9 +5,5 @@ cls
 mode 40,10
 cls
 cleanmgr /d C:
-echo what
-pause
-cls
-temdelete
 
 
